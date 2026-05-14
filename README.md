@@ -260,9 +260,8 @@ Tasks can be removed using DELETE requests.
 
 ---
 
-# Screenshots
+# Home Page 
 
-Home Page.
 ![Homepage](screenshots/homepage.png)
 ---
 
